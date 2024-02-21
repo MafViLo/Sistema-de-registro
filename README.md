@@ -2,7 +2,7 @@
 
 
 - Estado del proyecto: En construcción.
-- 
+  
 Para jecutar el sistema, debes poner:
 
 ```npm instal next```
