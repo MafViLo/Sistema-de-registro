@@ -5,3 +5,4 @@
 Para jecutar el sistema, debes poner:
 
 ```npm instal next```
+Sistema de regsitro 2
